@@ -1,0 +1,8 @@
+alerta-client (6.5.0) bionic; urgency=medium
+
+  * add filter users by role and filter roles by scope (RBAC)
+  * prompt for password if not provided when creating new users
+  * allow OAuth2 client_id to be configured locally (used by GitHub)
+
+ -- Michael Mulqueen <mike@method-b.uk>  Fri, 11 Jan 2019 12:11:22 +0000
+
